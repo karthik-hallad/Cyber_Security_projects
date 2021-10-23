@@ -1,0 +1,19 @@
+#1
+Enter your password: hello
+Please use at least one UPPER case character
+
+#2
+Enter your password: HELLo
+Please use at least  6 characters
+
+#3
+Enter your password: hellowrld  
+Please use at least one UPPER case character
+
+#4
+Enter your password: HelloWorld123
+Password is Strong
+
+#5
+Enter your password: HelloWorld
+Please use at least one digit

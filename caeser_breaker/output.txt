@@ -1,0 +1,17 @@
+1
+Please Enter the text to be broken: 
+pdana eo pda bknp
+The most probable combination is: 
+there is the fort
+
+2
+Please Enter the text to be broken: 
+am boas wg yofhvwy
+The most probable combination is: 
+my name is karthik
+
+3
+Please Enter the text to be broken: 
+go cdeni sx BFMO
+The most probable combination is: 
+we study in RVCE
